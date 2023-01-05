@@ -144,7 +144,7 @@ p {
 }
 
 /* medeia query */
-@media (max-width:950px) {
+@media (max-width:850px) {
   .title-img {
     position: static;
     transform: rotate(0);
